@@ -20,11 +20,16 @@ This is a mod for FiveM / GTA V that aims to create realistic vehicle failure.
 * Sunday driver feature: Smooth acceleration and braking. Easy speed control makes it much easier to drive a steady slow speed. Brake holder feature prevents vehicle from switching direction after braking, and keeps the brakelight on while holding the brake.
 
 ### Realistic Vehicle Repair
-* Type /repair in the chat to repair your vehicle.
-* You may be able to perform a DIY emergency repair in the field.
+* Type /repair in the chat to repair your vehicle. There are two types of repairs, depending on your location:
+#### At the mechanic
+* If you are at a mechanic your vehicle will be completely fixed, as good as new.
+* Mechanics are located several places in San Andreas. Look for the blips on the map.
+#### Not at a mechanic
+* If you are not at a mechanic, you may be able to perform a DIY emergency repair in the field.
 * You can only reattach the oil plug once or twice, but after that, the vehicle will be beyond repair.
 * An emergency repair in the field will only make the car drivable, not completely fixed. A minor accident will most likely kill the car again.
 * If you let the damaged car sit too long, the oil will drain completely, preventing further repairs.
+* Electric vehicles can not be fixed by you, only by a mechanic. Technology is complex, and chewing gum just won't fix a dead battery.
 
 ## Configuration
 
