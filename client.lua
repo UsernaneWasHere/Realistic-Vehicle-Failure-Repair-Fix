@@ -75,8 +75,8 @@ RegisterCommand("repair", function()
 	if vehicle ~= 0 and GetPedInVehicleSeat(vehicle, -1) == ped and CanRepair == true then
 		SetVehicleEngineHealth(vehicle, 350.0)
 		SetVehicleEngineOn(vehicle, true, true)
-		healthEngineLast = 350.0
-		healthEngineCurrent = 350.0
+		healthEngineLast = 450.0
+		healthEngineCurrent = 450.0
 		healthEngineNew = 1000.0
 		healthEngineDelta = 0.0
 		healthEngineDeltaScaled = 0.0
